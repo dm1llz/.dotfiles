@@ -1,0 +1,48 @@
+- [Lazy](https://github.com/folke/lazy.nvim)
+- [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+    - [Windows Support](https://github.com/nvim-treesitter/nvim-treesitter/wiki/Windows-support)
+- [Treesitter Playground](https://github.com/nvim-treesitter/playground)
+- [Treesitter Context](https://github.com/nvim-treesitter/nvim-treesitter-context)
+- [Telescope](https://github.com/nvim-telescope/telescope.nvim)
+    - To use find files install [Ripgrep](https://github.com/BurntSushi/ripgrep)
+- [Telescope Undo](https://github.com/debugloop/telescope-undo.nvim)
+- [Catppuccin](https://github.com/catppuccin/nvim)
+- [LSP Zero](https://github.com/VonHeikemen/lsp-zero.nvim)
+- [Harpoon](https://github.com/ThePrimeagen/harpoon)
+- [Fugitive](https://github.com/tpope/vim-fugitive)
+- [Zen Mode](https://github.com/folke/zen-mode.nvim)
+- [Copilot](https://github.com/github/copilot.vim)
+- [Hardtime](https://github.com/m4xshen/hardtime.nvim)
+- [Lualine](https://github.com/nvim-lualine/lualine.nvim)
+- [Rainbow Delimiters](https://github.com/HiPhish/rainbow-delimiters.nvim)
+- [Autotag](https://github.com/windwp/nvim-ts-autotag)
+- [Autoclose](https://github.com/m4xshen/autoclose.nvim)
+- [Trouble](https://github.com/folke/trouble.nvim)
+- [Nvim Tree](https://github.com/nvim-tree/nvim-tree.lua)
+- [Gitsigns](https://github.com/lewis6991/gitsigns.nvim)
+- [Neoformat](https://github.com/sbdchd/neoformat)
+
+### Need to add
+- dap
+- dap-ui
+### Maybe add
+- spectre
+### Suggestions
+- references
+- tabline
+- fold (origami)
+- crates
+- autosave
+- moveline
+- tab/window management
+- leetbuddy
+- tidy
+- lspsaga
+- chatgpt
+- markdown preview
+- web-tools/live server
+- surround
+- Register
+- Marks
+- Color picker
+- refactoring
